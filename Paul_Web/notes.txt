@@ -1,0 +1,3 @@
+Find out if Tim wants to use either of the sidebar templates and if he wants a dedicated page for the "Services" drop-down menu, or if it should just expand and collapse and only have individual pages for the menu items.
+
+
